@@ -22,12 +22,12 @@ Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** puro para d
 2.  **Adicione os nomes:**
     Digite o nome de cada amigo no campo de texto e clique no botão **"Adicionar"**. A lista de participantes será exibida abaixo.
     
-![Tela do sorteador] (./https://github.com/user-attachments/assets/f85f6e9f-483a-4483-9479-e1a7a140c815)
+![Tela do sorteador] (./https://ibb.co/JWkGkv38)
 
 3.  **Realize o sorteio:**
     Após adicionar todos os participantes, clique no botão **"Sortear amigo"**.
 
-   ![Sortear amigo] (./https://github.com/user-attachments/assets/ec85a299-0df4-46c0-a66a-b89673722665)
+   ![Sortear amigo] (./https://ibb.co/HfQHcDZ7)
 
 ---
 
