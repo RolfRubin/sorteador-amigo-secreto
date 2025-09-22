@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** puro para d
 
 ---
 
-### Funcionalidades
+## Funcionalidades
 
 * **Adicionar Participantes:** Permite que o usuário digite os nomes dos amigos e os adicione a uma lista.
 * **Sorteio Aleatório:** A lógica de sorteio seleciona um nome de forma justa e aleatória.
@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** puro para d
 
 ---
 
-### Como Usar
+## Como Usar
 
 1.  **Abra o arquivo:**
     Abra o arquivo `index.html` em seu navegador de preferência.
@@ -22,16 +22,16 @@ Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** puro para d
 2.  **Adicione os nomes:**
     Digite o nome de cada amigo no campo de texto e clique no botão **"Adicionar"**. A lista de participantes será exibida abaixo.
     
-<img width="1461" height="1260" alt="unnamed2" src="https://github.com/user-attachments/assets/f85f6e9f-483a-4483-9479-e1a7a140c815" />
+![Tela do sorteador] (./https://github.com/user-attachments/assets/f85f6e9f-483a-4483-9479-e1a7a140c815)
 
 3.  **Realize o sorteio:**
     Após adicionar todos os participantes, clique no botão **"Sortear amigo"**.
 
-   <img width="1462" height="1262" alt="unnamed" src="https://github.com/user-attachments/assets/ec85a299-0df4-46c0-a66a-b89673722665" />
+   ![Sortear amigo] (./https://github.com/user-attachments/assets/ec85a299-0df4-46c0-a66a-b89673722665)
 
 ---
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * `HTML5`
 * `CSS3`
@@ -39,7 +39,7 @@ Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** puro para d
 
 ---
 
-### Autor
+## Autor
 
 **Rolf de Oliveira Rubin**
 
@@ -47,6 +47,6 @@ GitHub: https://github.com/RolfRubin
 
 ---
 
-### Licença
+## Licença
 
 Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo `LICENSE`.
