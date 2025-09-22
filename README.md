@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** puro para d
 
 ---
 
-### 💻 Funcionalidades
+### Funcionalidades
 
 * **Adicionar Participantes:** Permite que o usuário digite os nomes dos amigos e os adicione a uma lista.
 * **Sorteio Aleatório:** A lógica de sorteio seleciona um nome de forma justa e aleatória.
@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** puro para d
 
 ---
 
-### 🚀 Como Usar
+### Como Usar
 
 1.  **Abra o arquivo:**
     Abra o arquivo `index.html` em seu navegador de preferência.
@@ -31,7 +31,7 @@ Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** puro para d
 
 ---
 
-### 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 * `HTML5`
 * `CSS3`
@@ -39,7 +39,7 @@ Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** puro para d
 
 ---
 
-### ✍️ Autor
+### Autor
 
 **Rolf de Oliveira Rubin**
 
@@ -47,6 +47,6 @@ GitHub: https://github.com/RolfRubin
 
 ---
 
-### 📄 Licença
+### Licença
 
 Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo `LICENSE`.
